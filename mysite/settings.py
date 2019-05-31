@@ -25,7 +25,7 @@ SECRET_KEY = '30n257pszq1c^xn+tump&-52evie$%(nz9d9_o5o@26uv97%ew'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'http://karollima.pythonanywhere.com/']
 
 
 # Application definition
